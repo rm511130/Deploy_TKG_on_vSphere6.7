@@ -14,7 +14,7 @@
    - https://www.vmware.com/go/get-tkg --> download tkg-darwin-amd64-v1.1.3_vmware.1.gz
    - 
    
-![](./image/tkginstall.png)   
+![](./images/tkginstall.png)   
 
    
 2. Use the Tanzu Kubernetes Grid command line interface (CLI) to *deploy* the Tanzu Kubernetes Grid management cluster and Tanzu Kubernetes clusters
